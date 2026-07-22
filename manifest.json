@@ -1,0 +1,15 @@
+{
+  "name": "Route CH — Switzerland Tracker",
+  "short_name": "Route CH",
+  "description": "Daily / weekly / monthly / yearly tracker for the Data Analyst to MSc Switzerland plan",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F2F0",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
